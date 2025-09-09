@@ -5,4 +5,5 @@ Collect and clean a large amount of audio/video data, apply signal processing an
 
 ### **Supporting Education**
 **July 2025 | De Sheng Town Central Primary School, Yizhou District, Hechi City, Guangxi Province**
+
 Teaching primary school students, imparting knowledge related to AI and computer technology
