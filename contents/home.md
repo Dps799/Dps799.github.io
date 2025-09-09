@@ -8,7 +8,6 @@ I'm currently an undergraduate student in Zhejiang University, Hangzhou. Strive 
 ### **Education** 
 **Zhejiang University**, Undergraduate student of Computer Technology and Science (2023 – 2027)   
 
-- GPA: 4.81/5.00 (top1%)  
 
 ### **Research Interests**  
 Spatial Audio Generation, Audio and Speech Processing, Arknights.
