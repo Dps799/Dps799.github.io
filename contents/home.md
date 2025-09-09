@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Dps799](https://img.shields.io/badge/Dps799-github-blue?logo=github)](https://github.com/Dps799)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently an undergraduate student in Zhejiang University, Hangzhou. Strive for achieving better research results.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+### **Email** 
+<code>3230102288@zju.edu.cn</code>  
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+### **Education** 
+**Zhejiang University**, Undergraduate student of Computer Technology and Science (2023 – 2027)   
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+- GPA: 4.81/5.00 (top1%)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+### **Research Interests**  
+Spatial Audio Generation, Audio and Speech Processing, Arknights.

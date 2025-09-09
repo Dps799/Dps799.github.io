@@ -1,3 +1,6 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- **Sixteenth Computer College "Campus Star", Zhejiang University, 2025**
+- **Undergraduate Natural Science Training Program "Multi-modal Guided End-to-End Multi-Source Spatial Audio Synthesis", Zhejiang University, 2025**
+- **National Scholarship, China, 2024**
+- The First Prize Scholarship, Zhejiang University, 2024
+- First Prize in the Provincial Engineering Category of the College Students' Higher Mathematics (Calculus) Competition, Zhejiang Province, 2024
+- Second Prize in the University Students' Physics (Theoretical) Competition, Zhejiang Province, 2024
