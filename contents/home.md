@@ -6,8 +6,8 @@ I'm currently an undergraduate student in Zhejiang University, Hangzhou. Strive 
 <code>3230102288@zju.edu.cn</code>  
 
 ### **Education** 
-**Zhejiang University**, Undergraduate student of Computer Technology and Science (2023 – 2027)   
-
+**Zhejiang University**, Undergraduate student of Computer Technology and Science (Majoring) (2023 – 2027)   
+**Zhejiang University**, Undergraduate student of Advanced Honor Class of Engineering Education (Minoring) (2024 – 2027)
 
 ### **Research Interests**  
 Spatial Audio Generation, Audio and Speech Processing, Arknights.
